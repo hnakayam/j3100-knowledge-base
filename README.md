@@ -40,6 +40,18 @@ This repository contains user-contributed technical documentation, specification
 
 ---
 
+## External Resources / 関連リンク
+
+**English:**  
+Related resources for Toshiba vintage computers:
+
+**日本語:**  
+東芝ビンテージコンピュータ関連のリソース：
+
+- [Toshiba T-Series Support](http://www.steptail.com/toshiba_t-series_support) - Comprehensive resource for Toshiba T-series portable computers including documentation, utilities, and community information
+
+---
+
 ## License / ライセンス
 
 This documentation is licensed under CC0 1.0 Universal.  
